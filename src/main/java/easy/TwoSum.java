@@ -22,7 +22,7 @@ public class TwoSum {
         return null;
     }
 
-// MY, ITS Mine
+
 // first solution
 //    public int[] twoSum(int[] nums, int target) {
 //        int[] indexies = new int[2];
