@@ -1,8 +1,5 @@
 import kata08.repeatStr
-import leetcode.easy.RunningSum1dArray
-import leetcode.easy.runningSum
 import org.junit.jupiter.api.Test
-import org.springframework.test.context.TestConstructor
 import kotlin.test.assertEquals
 
 
