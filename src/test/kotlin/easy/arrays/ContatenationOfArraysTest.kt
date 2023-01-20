@@ -1,4 +1,4 @@
-package arrays
+package easy.arrays
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

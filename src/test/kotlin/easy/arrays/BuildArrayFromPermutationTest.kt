@@ -1,4 +1,4 @@
-package arrays
+package easy.arrays
 
 import leetcode.easy.arrays.buildArray
 import org.junit.jupiter.api.Test
