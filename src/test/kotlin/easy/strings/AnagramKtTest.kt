@@ -1,4 +1,4 @@
-package strings
+package easy.strings
 
 import easy.strings.Anagram
 import org.junit.jupiter.api.Assertions

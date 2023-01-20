@@ -1,4 +1,4 @@
-package strings
+package easy.strings
 
 import leetcode.easy.arrays.reverseWords
 import leetcode.easy.strings.isPalindrome

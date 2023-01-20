@@ -1,4 +1,4 @@
-package arrays
+package easy.arrays
 
 import leetcode.easy.arrays.defangIPaddr
 import org.junit.jupiter.api.Test
